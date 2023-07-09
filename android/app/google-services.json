@@ -1,0 +1,83 @@
+{
+  "project_info": {
+    "project_number": "355367387550",
+    "firebase_url": "https://fir-57179-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "fir-57179",
+    "storage_bucket": "fir-57179.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:355367387550:android:cb687f2598e2970ebd968f",
+        "android_client_info": {
+          "package_name": "com.example.chi"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "355367387550-pv033o1te6fp7s0gnbvrp6o3qtsri7vv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAIbnUc-vxhBvVcTXdpxs4CYGrorjnhTY4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "355367387550-pv033o1te6fp7s0gnbvrp6o3qtsri7vv.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "355367387550-hecnntdlt9cm7ovlmg0tootsm3gs295r.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.chi"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:355367387550:android:c1bc59abd794eee5bd968f",
+        "android_client_info": {
+          "package_name": "com.example.test4"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "355367387550-pv033o1te6fp7s0gnbvrp6o3qtsri7vv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAIbnUc-vxhBvVcTXdpxs4CYGrorjnhTY4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "355367387550-pv033o1te6fp7s0gnbvrp6o3qtsri7vv.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "355367387550-hecnntdlt9cm7ovlmg0tootsm3gs295r.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.chi"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
